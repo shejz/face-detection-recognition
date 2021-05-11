@@ -12,3 +12,6 @@
 - [Dlib HOG + Linear SVM and MMOD CNN](https://github.com/shejz/face-detection-recognition/tree/main/Face%20Detection%20with%20Dlib)
 
 ![](https://github.com/shejz/face-detection-recognition/blob/main/face_detection_summary.jpg)
+
+![](https://github.com/shejz/face-detection-recognition/blob/main/face_detection_summary2.jpg)
+
