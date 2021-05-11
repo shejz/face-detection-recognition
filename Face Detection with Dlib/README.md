@@ -10,11 +10,11 @@
 
 **HOG + Linear SVM face detection with dlib**
 
-Pros 
+**Pros** 
 - More accurate than Haar Cascades
 - More stable detection than Haar cascade (ex. fewer parameter to tune)
 
-Cons
+**Cons**
 - Only works on frontal views of the face due to nature of HOG descriptor (does not perform well under rotation or viewing angle changes.)
 - Requires an additional library (dlib) be installed 
 - Not as accurate as deep learning-based face detector
