@@ -11,7 +11,11 @@
 - [OpenCV SSD Face Detector](https://github.com/shejz/face-detection-recognition/tree/main/SSD%20Face%20Detector)
 - [Dlib HOG + Linear SVM and MMOD CNN](https://github.com/shejz/face-detection-recognition/tree/main/Face%20Detection%20with%20Dlib)
 
+
+
 ![](https://github.com/shejz/face-detection-recognition/blob/main/face_detection_summary.jpg)
 
+
+Using dlib’s MMOD CNN face detector. It's far more accurate and robust than the HOG + Linear SVM face detector.
 ![](https://github.com/shejz/face-detection-recognition/blob/main/face_detection_summary2.jpg)
 
