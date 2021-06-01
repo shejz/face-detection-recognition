@@ -1,6 +1,8 @@
 
 # **dlib’s HOG + Linear SVM and MMOD face detectors**
 
+NOTEBOOK DEMO:   [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/face-detection-recognition/blob/main/Face%20Detection%20with%20Dlib/face_detection_dlib.ipynb)
+
 **dlib includes two face detection methods built into the library**:
 
 1. A **HOG + Linear SVM face detector** that is accurate and computationally efficient.
