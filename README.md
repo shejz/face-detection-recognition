@@ -10,6 +10,8 @@
 1. [OpenCV Haar Cascades](https://github.com/shejz/face-detection-recognition/tree/main/Face%20Detection%20with%20Haar%20Cascades)
 2. [OpenCV SSD Face Detector](https://github.com/shejz/face-detection-recognition/tree/main/SSD%20Face%20Detector)
 3. [Dlib HOG + Linear SVM and MMOD CNN](https://github.com/shejz/face-detection-recognition/tree/main/Face%20Detection%20with%20Dlib)
+4. [Local Binary Patterns (LBPs)](https://github.com/shejz/face-detection-recognition/tree/main/Face%20Recognition%20with%20Local%20Binary%20Patterns)
+5. [OpenCV Eigenfaces](https://github.com/shejz/face-detection-recognition/tree/main/OpenCV%20Eigenfaces%20for%20Face%20Recognition)
 
 - Haar cascade not anywhere near as accurate as its HOG + Linear SVM and deep learning-based face detection counterparts. Highly prone to false-positive detections. 
 - HOG + Linear SVM more accurate than Haar cascades but not as accurate as deep learning-based face detectors. Only works on frontal views of the face it will not be detected as the HOG descriptor does not tolerate changes in rotation or viewing angle well.
