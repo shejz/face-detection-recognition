@@ -1,0 +1,1 @@
+NOTEBOOK DEMO:  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/face-detection-recognition/blob/main/OpenCV%20Eigenfaces%20for%20Face%20Recognition/face-recognition_eigenfaces.ipynb)
