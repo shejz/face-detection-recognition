@@ -1,6 +1,6 @@
 # **Face detection in images with OpenCV and Deep learning**
 
-NOTEBOOK DEMO:  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/face-detection-recognition/blob/main/SSD%20Face%20Detector/ssd_face%20detector.ipynb)
+NOTEBOOK DEMO:  [![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/face-detection-recognition/blob/main/SSD%20Face%20Detector/ssd_face%20detector.ipynb)
 
 The more accurate OpenCV face detector is deep learning based, and in particular, utilizes the **Single Shot Detector** (SSD) framework with **ResNet** as the base network.
 
