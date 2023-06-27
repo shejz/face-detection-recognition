@@ -1,4 +1,4 @@
-# **Face Detection with Haar Cascades**  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/face-detection-recognition/blob/main/Face%20Detection%20with%20Haar%20Cascades/Haar_cascades_face_detection.ipynb)
+# **Face Detection with Haar Cascades**  [![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/face-detection-recognition/blob/main/Face%20Detection%20with%20Haar%20Cascades/Haar_cascades_face_detection.ipynb)
 
 **Pros and Cons of OpenCV's Haar Cascade Face Detector**:
 
